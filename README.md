@@ -135,5 +135,3 @@ func change_reputation(faction : FactionType, delta : int, reason : String) -> v
 | Q2 2027     | Closed Beta                           |
 | Q1 2028     | Релиз 1.0                             |
 | Q4 2028     | DLC 1                                 |
-
-Готов к обсуждению и правкам!
